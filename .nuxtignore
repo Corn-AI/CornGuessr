@@ -1,0 +1,2 @@
+// .nuxtignore
+pages/*.nuxt.spec.ts
